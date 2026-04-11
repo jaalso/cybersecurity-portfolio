@@ -50,9 +50,14 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 
 - 🎓 Swiss Cyber Institute — Cybersecurity Specialist Program (in progress)
 - 🟩 TryHackMe — SOC Level 1 Path (in progress)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-jaalsove-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/jaalsove)
+ - 📦 HackTheBox — Sherlocks (Blue Team) (in progress)
+ - 🛡️ CyberDefenders — Blue Team Labs *(in progress)*
 
-- 📦 HackTheBox — Sherlocks (Blue Team) (in progress)
+## 🌐 Find Me On
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-jaalsove-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/jaalsove)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Bornia01-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Bornia01)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-bornia01-blue?style=for-the-badge)](https://cyberdefenders.org/p/bornia01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaalso-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaalso)
 
 # ⚖️ Legal & Ethical Notice
 All penetration testing and offensive security activities documented in this portfolio were conducted exclusively in:
