@@ -23,7 +23,8 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 - ✅ Exploitation via Metasploit Framework
 - ✅ Brute force attacks with Hydra
 
-
+📄 **[[Download Full Lab Report (PDF)](./Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf))**  
+> 🔒 Password protected — contact me at jasove@live.com to request access
 
 
 # 🧰 Tools & Technologies
