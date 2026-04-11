@@ -9,8 +9,8 @@ My background is in IT infrastructure, System Admin, Network, Automation, IT Sup
 
 - 🎯 Currently studying: Ethical Hacking, SIEM, Malware Analysis, Phishing Simulation
 - 🚩Swiss Cyber Institute modules completed: Communication & Leadership, ATT&CK Frameworks, Risk Rating (CIA/CVSS/CVE/DREAD), Vulnerability Scanning, Network Analysis, Scan & Simulate Attacks, Certification & Encryption, Network Basic & Analysis, Basic Hardening, Email Communication Investigation, Intrusion Detection Systems.
-- 🛡️ Platforms: TryHackMe · HackTheBox · CyberDefenders · LetsDefend · 
-- 🔬 My Own Security Labs: GNS3, WMware Workstation Pro, VirtualBox)  
+- 🛡️ Platforms: TryHackMe · HackTheBox · CyberDefenders · LetsDefend 
+- 🔬 My Own Security Labs: GNS3, WMware Workstation Pro, VirtualBox  
 - 📬 Open to: SOC Analyst · Junior Pentester · Blue Team roles
 
 ---
