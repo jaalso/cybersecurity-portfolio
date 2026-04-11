@@ -87,3 +87,31 @@ Analyzed and hardened email security controls at the gateway level, focusing on 
 ✅ SPF, DKIM, DMARC record validation
 ✅ Gateway policy configuration
 ✅ Anti-phishing and anti-spoofing controls
+
+
+
+🧰 Tools & Technologies
+Category                    Tools    
+Scanning & Reconnmap,       Wireshark, TShark, NetworkMiner
+Exploitation                Metasploit, Hydra, CrackMapExec
+Web App Testing             Burp Suite, OWASP ZAP
+SIEM & Monitoring           Wazuh, Elastic Stack, Sysmon
+Email Forensics             emlAnalyzer, CyberChef, MXToolbox
+Phishing Simulation         GoPhish
+Platforms                   Kali Linux, Windows 10/11, Metasploitable 2
+
+
+📚 Certifications & Training
+
+🎓 Swiss Cyber Institute — Cybersecurity Specialist Program (in progress)
+🟩 TryHackMe — SOC Level 1 Path (in progress)
+📦 HackTheBox — Sherlocks (Blue Team) (in progress)
+
+⚖️ Legal & Ethical Notice
+All penetration testing and offensive security activities documented in this portfolio were conducted exclusively in:
+
+Isolated personal lab environments (VMs with no external connectivity)
+Authorized external targets (vuln.land)
+Simulated environments provided by training platforms (THM, HTB)
+
+No unauthorized systems were accessed. All work complies with Swiss law and ethical hacking standards.
