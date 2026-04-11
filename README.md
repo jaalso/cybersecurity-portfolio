@@ -1,14 +1,15 @@
 
 # 👾Cybersecurity Portfolio
 
-> Cybersecurity Specialist Student @ Swiss Cyber Institute | Zürich, Switzerland
+> Aim of this repo is to display the different projects I've worked on during the last months.
 
 ## 🧭 About Me
-I'm a cybersecurity learner enrolled in the Swiss Cyber Institute's Cybersecurity Specialist Program, building hands-on skills across both offensive (red team) and defensive (blue team) disciplines. 
-My background is in IT infrastructure, and I'm currently focused on transitioning into a SOC Analyst or Penetration Tester role in Switzerland.
+A cybersecurity learner enrolled in the CSS EFA Program at SCI, building hands-on skills across both offensive (red team) and defensive (blue team) disciplines. 
+My background is in IT infrastructure, System Admin, Network, Automation, IT Support and I'm currently focused on transitioning into a SOC Analyst or Penetration Tester role in Switzerland.
 
 - 🎯 Currently studying: Ethical Hacking, SIEM, Malware Analysis, Phishing Simulation
-- 🛡️ Platforms: TryHackMe · HackTheBox · CyberDefenders · LetsDefend
+- Swiss Cyber Institute Modules Completed: Communication & Leadership, ATT&CK Frameworks, Risk Rating (CIA/CVSS/CVE/DREAD), Vulnerability Scanning, Network Analysis, Scan & Simulate Attacks, Certification & Encryption, Network Basic & Analysis, Basic Hardening, Email Communication Investigation, Intrusion Detection Systems.
+- 🛡️ Platforms: TryHackMe · HackTheBox · CyberDefenders · LetsDefend · (own labs with Vmware, VirtualBox)
 - 📬 Open to: SOC Analyst · Junior Pentester · Blue Team roles
 
 ## 🗂️ Lab Projects
