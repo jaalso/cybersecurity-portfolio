@@ -3,16 +3,17 @@
 
 > Aim of this repo is to display the different projects I've worked on during the last months.
 
-## 🧭 About Me
+## About Me
 A cybersecurity learner enrolled in the CSS EFA Program at SCI, building hands-on skills across both offensive (red team) and defensive (blue team) disciplines. 
 My background is in IT infrastructure, System Admin, Network, Automation, IT Support and I'm currently focused on transitioning into a SOC Analyst or Penetration Tester role in Switzerland.
 
 - 🎯 Currently studying: Ethical Hacking, SIEM, Malware Analysis, Phishing Simulation
-- Swiss Cyber Institute modules completed: Communication & Leadership, ATT&CK Frameworks, Risk Rating (CIA/CVSS/CVE/DREAD), Vulnerability Scanning, Network Analysis, Scan & Simulate Attacks, Certification & Encryption, Network Basic & Analysis, Basic Hardening, Email Communication Investigation, Intrusion Detection Systems.
-- 🛡️ Platforms: TryHackMe · HackTheBox · CyberDefenders · LetsDefend · (Owned labs:GNS3, Vmware, VirtualBox) projects displayed below!
+- 🚩Swiss Cyber Institute modules completed: Communication & Leadership, ATT&CK Frameworks, Risk Rating (CIA/CVSS/CVE/DREAD), Vulnerability Scanning, Network Analysis, Scan & Simulate Attacks, Certification & Encryption, Network Basic & Analysis, Basic Hardening, Email Communication Investigation, Intrusion Detection Systems.
+- 🛡️ Platforms: TryHackMe · HackTheBox · CyberDefenders · LetsDefend · 
+- 🔬 My Own Security Labs: GNS3, WMware Workstation Pro, VirtualBox)  
 - 📬 Open to: SOC Analyst · Junior Pentester · Blue Team roles
 
-## 🗂️ Lab Projects
+## Lab Projects
 
 ### 01 · Network Penetration Testing Lab
 Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerability identification, exploitation, and post-exploitation. Documented findings in a structured report format.
@@ -93,7 +94,7 @@ must always be manually verified before reporting findings.
 <br>🔒 Password protected — contact me via [LinkedIn](https://linkedin.com/in/jaalso) to request access
 
 
-# 🧰 Tools & Technologies
+# Tools & Technologies
    Category         Vs           Tools    
 - Scanning & Reconnmap ->       Wireshark, TShark, NetworkMiner
 - Exploitation    ->            Metasploit, Hydra, CrackMapExec
@@ -104,7 +105,7 @@ must always be manually verified before reporting findings.
 - Platforms     ->              Kali Linux, Windows 10/11, Metasploitable 2
 
 
-# 📚 Certifications & Training
+# Certifications & Training
 
 - 🎓 Swiss Cyber Institute — Cybersecurity Specialist Program (in progress)
 - 🎓 Swiss Cyber Institute — Certified Security Professional Training (completed) 
@@ -119,7 +120,7 @@ must always be manually verified before reporting findings.
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-bornia01-blue?style=for-the-badge)](https://cyberdefenders.org/p/bornia01/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime%20Soto-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaalso)
 
-# ⚖️ Legal & Ethical Notice
+# Legal & Ethical Notice
 All penetration testing and offensive security activities documented in this portfolio were conducted exclusively in:
 
 Isolated personal lab environments (VMs with no external connectivity)
