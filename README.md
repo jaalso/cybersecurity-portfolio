@@ -27,7 +27,7 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 <img width="611" height="167" alt="image" src="https://github.com/user-attachments/assets/d51c3811-2c13-4a6e-8a3d-8f0e622d4b43" />
 
 **Metasploit — root shell obtained**
-<img width="531" height="117" alt="image" src="https://github.com/user-attachments/assets/a8a17a0f-5d3e-42d8-8ba0-347b4e12013e" />
+<br><img width="531" height="117" alt="image" src="https://github.com/user-attachments/assets/a8a17a0f-5d3e-42d8-8ba0-347b4e12013e" />
 <img width="401" height="215" alt="image" src="https://github.com/user-attachments/assets/33cb446c-2d39-4a2c-9f3f-dcbf43f040d4" />
 
 
@@ -50,7 +50,7 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 
 - 🎓 Swiss Cyber Institute — Cybersecurity Specialist Program (in progress)
 - 🟩 TryHackMe — SOC Level 1 Path (in progress)
-<img width="764" height="178" alt="image" src="https://github.com/user-attachments/assets/34369e05-d67a-4dcf-b70f-8a701ee55d76" />
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-jaalsove-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/jaalsove)
 
 - 📦 HackTheBox — Sherlocks (Blue Team) (in progress)
 
