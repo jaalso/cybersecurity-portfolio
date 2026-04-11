@@ -55,7 +55,7 @@ CVEs: CVE-2009-0927 (Adobe Reader JS buffer overflow) · CVE-2008-2992 (util.pri
 <br>🔒 Password protected — contact me via [LinkedIn](https://linkedin.com/in/jaalso) to request access
 
 
-### 01 · Home Network Security Audit
+### 03 · Home Network Security Audit
 Performed a full recon-to-findings audit on a real home network using the same methodology used in
 professional penetration tests — ARP sweep, service enumeration, credential testing, and manual verification.
 - **Tools:** netdiscover · nmap · Hydra · curl
