@@ -22,8 +22,8 @@ My background is in IT infrastructure, System Admin, Network, Automation, IT Sup
 |---|---|---|---|
 | 01 | Network Penetration Testing | nmap · Metasploit · Hydra | ✅ Complete |
 | 02 | GoPhish Phishing Simulation & Offensive Email Attack Chain | GoPhish · Zphisher · SET · Ngrok · Cloudflared · Postfix | ✅ Complete  |
-| 03 | Offensive Email Attack Chain | emlAnalyzer · CyberChef | 🔜 Coming soon |
-
+| 03 |  WordPress Pentest (Bigware/Dockerlabs) | Nmap · Wappalyzer · WPScan · Python exploit · Browser DevTools · Netcat | 🔜 Coming soon |
+| 04 |  Web App Security Analysis (Burp Suite / OWASP ZAP) | Burp Suite · OWASP ZAP · Browser DevTools | 🔜 Coming soon |
 ---
 
 ## 🛡️ [Blue Team Labs](https://github.com/jaalso/blue-team-labs)
