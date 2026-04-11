@@ -23,6 +23,14 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 - ✅ Exploitation via Metasploit Framework
 - ✅ Brute force attacks with Hydra
 
+**nmap version scan — identifying vsftpd 2.3.4**
+<img width="611" height="167" alt="image" src="https://github.com/user-attachments/assets/d51c3811-2c13-4a6e-8a3d-8f0e622d4b43" />
+
+**Metasploit — root shell obtained**
+<img width="531" height="117" alt="image" src="https://github.com/user-attachments/assets/a8a17a0f-5d3e-42d8-8ba0-347b4e12013e" />
+<img width="401" height="215" alt="image" src="https://github.com/user-attachments/assets/33cb446c-2d39-4a2c-9f3f-dcbf43f040d4" />
+
+
 📄 **[[Download Full Lab Report (PDF)](./Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf))**  
 > 🔒 Password protected — contact me at jasove@live.com to request access
 
@@ -42,6 +50,8 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 
 - 🎓 Swiss Cyber Institute — Cybersecurity Specialist Program (in progress)
 - 🟩 TryHackMe — SOC Level 1 Path (in progress)
+<img width="764" height="178" alt="image" src="https://github.com/user-attachments/assets/34369e05-d67a-4dcf-b70f-8a701ee55d76" />
+
 - 📦 HackTheBox — Sherlocks (Blue Team) (in progress)
 
 # ⚖️ Legal & Ethical Notice
