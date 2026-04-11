@@ -21,7 +21,7 @@ My background is in IT infrastructure, System Admin, Network, Automation, IT Sup
 | # | Lab | Tools | Status |
 |---|---|---|---|
 | 01 | Network Penetration Testing | nmap · Metasploit · Hydra | ✅ Complete |
-| 02 | GoPhish Phishing Simulation | GoPhish · SMTP · DNS | 🔜 Coming soon |
+| 02 | GoPhish Phishing Simulation & Offensive Email Attack Chain | GoPhish · Zphisher · SET · Ngrok · Cloudflared · Postfix | ✅ Complete  |
 | 03 | Offensive Email Attack Chain | emlAnalyzer · CyberChef | 🔜 Coming soon |
 
 ---
