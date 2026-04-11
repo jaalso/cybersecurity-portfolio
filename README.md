@@ -31,8 +31,8 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 <br><img width="401" height="215" alt="image" src="https://github.com/user-attachments/assets/33cb446c-2d39-4a2c-9f3f-dcbf43f040d4" />
 
 
-> 📄 **[[Download Full Lab Report (PDF)](./Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf))**  
-> 🔒 Password protected — contact me at jasove@live.com to request access
+> 📄 **[Download Full Lab Report (PDF)](https://github.com/jaalso/cybersecurity-portfolio/raw/main/Pentest_Lab_Writeup_protected.pdf)**
+<br>🔒 Password protected — contact me at jasove@live.com to request access
 
 
 ### 02 · Network Traffic Forensics — Phishing Attack Investigation
@@ -52,8 +52,8 @@ exfiltrated in plaintext ~20 hours post-infection. Pastebin filters returned zer
 exfiltration occurred via direct HTTP upload, not Pastebin directly.
 
 CVEs: CVE-2009-0927 (Adobe Reader JS buffer overflow) · CVE-2008-2992 (util.printf stack overflow)
-> 📄 **[[Download Full Lab Report (PDF)](./Phishing_Forensics_Writeup_protected.pdf]([https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Phishing_Forensics_Writeup_protected.pdf)))**  
-> 🔒 Password protected — contact me at jasove@live.com to request access
+> 📄 **[Download Full Lab Report (PDF)](https://github.com/jaalso/cybersecurity-portfolio/raw/main/Phishing_Forensics_Writeup_protected.pdf)**
+<br>🔒 Password protected — contact me at jasove@live.com to request access
 
 
 
