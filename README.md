@@ -106,9 +106,10 @@ must always be manually verified before reporting findings.
 # 📚 Certifications & Training
 
 - 🎓 Swiss Cyber Institute — Cybersecurity Specialist Program (in progress)
+- 🎓 Swiss Cyber Institute — Certified Security Professional Training (completed) 
 - 🟩 TryHackMe — SOC Level 1 Path (in progress)
- - 📦 HackTheBox — Sherlocks (Blue Team) (in progress)
- - 🛡️ CyberDefenders — Blue Team Labs *(in progress)*
+- 📦 HackTheBox — Sherlocks (Blue Team) (in progress)
+- 🛡️ CyberDefenders — Blue Team Labs *(in progress)*
 
 
 ## 🌐 Find Me On
