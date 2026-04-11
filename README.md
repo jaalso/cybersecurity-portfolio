@@ -24,11 +24,11 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 - ✅ Brute force attacks with Hydra
 
 **nmap version scan — identifying vsftpd 2.3.4**
-<img width="611" height="167" alt="image" src="https://github.com/user-attachments/assets/d51c3811-2c13-4a6e-8a3d-8f0e622d4b43" />
+<br><img width="611" height="167" alt="image" src="https://github.com/user-attachments/assets/d51c3811-2c13-4a6e-8a3d-8f0e622d4b43" />
 
 **Metasploit — root shell obtained**
 <br><img width="531" height="117" alt="image" src="https://github.com/user-attachments/assets/a8a17a0f-5d3e-42d8-8ba0-347b4e12013e" />
-<img width="401" height="215" alt="image" src="https://github.com/user-attachments/assets/33cb446c-2d39-4a2c-9f3f-dcbf43f040d4" />
+<br><img width="401" height="215" alt="image" src="https://github.com/user-attachments/assets/33cb446c-2d39-4a2c-9f3f-dcbf43f040d4" />
 
 
 📄 **[[Download Full Lab Report (PDF)](./Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf))**  
