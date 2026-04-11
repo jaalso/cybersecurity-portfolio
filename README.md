@@ -77,6 +77,7 @@ the router returning identical 301 redirects for every request. Confirmed that a
 must always be manually verified before reporting findings.
 
 **Asset discovery — 10 hosts identified**
+<br><img width="335" height="25" alt="image" src="https://github.com/user-attachments/assets/dd25c244-83f6-4742-a8f7-c88e9747109f" />
 <br><img width="553" height="255" alt="image" src="https://github.com/user-attachments/assets/6d4cda6f-b5bc-4c0e-8ece-1498657555d2" />
 
 
