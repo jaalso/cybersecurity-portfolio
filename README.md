@@ -1,3 +1,26 @@
+
+# 👾Cybersecurity Portfolio
+
+> Cybersecurity Specialist Student @ Swiss Cyber Institute | Zürich, Switzerland
+
+## 🧭 About Me
+I'm a cybersecurity learner enrolled in the Swiss Cyber Institute's Cybersecurity Specialist Program, building hands-on skills across both offensive (red team) and defensive (blue team) disciplines. 
+My background is in IT infrastructure, and I'm currently focused on transitioning into a SOC Analyst or Penetration Tester role in Switzerland.
+
+- 🎯 Currently studying: Ethical Hacking, SIEM, Malware Analysis, Phishing Simulation
+- 🛡️ Platforms: TryHackMe · HackTheBox · CyberDefenders · LetsDefend
+- 📬 Open to: SOC Analyst · Junior Pentester · Blue Team roles
+
+## 🗂️ Lab Projects
+
+### 01 · Network Penetration Testing Lab
+**Tools:** nmap · Metasploit · Hydra
+
+- ✅ Network scanning with nmap
+- ✅ Exploitation via Metasploit
+
+
+
 # cybersecurity-portfolio
 👾 Jaime S — Cybersecurity Portfolio
 
