@@ -52,7 +52,7 @@ exfiltrated in plaintext ~20 hours post-infection. Pastebin filters returned zer
 exfiltration occurred via direct HTTP upload, not Pastebin directly.
 
 CVEs: CVE-2009-0927 (Adobe Reader JS buffer overflow) · CVE-2008-2992 (util.printf stack overflow)
-> 📄 **[[Download Full Lab Report (PDF)](./Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf))**  
+> 📄 **[[Download Full Lab Report (PDF)](./Phishing_Forensics_Writeup_protected.pdf]([https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Phishing_Forensics_Writeup_protected.pdf)))**  
 > 🔒 Password protected — contact me at jasove@live.com to request access
 
 
