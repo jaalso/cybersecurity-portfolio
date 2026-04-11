@@ -15,7 +15,7 @@ My background is in IT infrastructure, System Admin, Network, Automation, IT Sup
 
 ---
 
-## 🧰 [Red Team Labs](https://github.com/jaalso/red-team-labs)
+## 🔴 [Red Team Labs](https://github.com/jaalso/red-team-labs)
 > Offensive security · Penetration testing · Exploitation · Phishing simulation
 
 | # | Lab | Tools | Status |
@@ -72,8 +72,8 @@ My background is in IT infrastructure, System Admin, Network, Automation, IT Sup
 ## ⚖️Legal & Ethical Notice
 All penetration testing and offensive security activities documented in this portfolio were conducted exclusively in:
 
-Isolated personal lab environments (VMs with no external connectivity)
-Authorized external targets (vuln.land)
-Simulated environments provided by training platforms (THM, HTB)
+- Isolated personal lab environments (VMs with no external connectivity)
+- Authorized external targets (vuln.land)
+- Simulated environments provided by training platforms (THM, HTB)
 
 No unauthorized systems were accessed. All work complies with Swiss law and ethical hacking standards.
