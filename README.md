@@ -32,7 +32,7 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 
 
 > 📄 **[Download Full Lab Report (PDF)](https://github.com/jaalso/cybersecurity-portfolio/raw/main/Pentest_Lab_Writeup_protected.pdf)**
-<br>🔒 Password protected — contact me at jasove@live.com to request access
+<br>🔒 Password protected — contact me to request access (link to linkedin below)
 
 
 ### 02 · Network Traffic Forensics ¦ Phishing Attack Investigation
@@ -53,7 +53,7 @@ exfiltration occurred via direct HTTP upload, not Pastebin directly.
 
 CVEs: CVE-2009-0927 (Adobe Reader JS buffer overflow) · CVE-2008-2992 (util.printf stack overflow)
 > 📄 **[Download Full Lab Report (PDF)](https://github.com/jaalso/cybersecurity-portfolio/raw/main/Phishing_Forensics_Writeup_protected.pdf)**
-<br>🔒 Password protected — contact me at jasove@live.com to request access
+<br>🔒 Password protected — contact me to request access (link to linkedin below)
 
 
 ### 01 · Home Network Security Audit
@@ -89,7 +89,8 @@ must always be manually verified before reporting findings.
 **Unauthenticated admin panel — direct browser access**
 <br><img width="404" height="69" alt="image" src="https://github.com/user-attachments/assets/89f716f6-18d8-4b6e-ba40-82a7f99e7a73" />
 
-
+> 📄 **[Download Full Lab Report (PDF)](https://github.com/jaalso/cybersecurity-portfolio/raw/main/HomeNetworkAudit_Writeup_protected.pdf)**
+<br>🔒 Password protected — contact me to request access (link to linkedin below)
 
 
 # 🧰 Tools & Technologies
