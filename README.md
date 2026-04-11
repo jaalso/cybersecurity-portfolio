@@ -31,8 +31,35 @@ Performed a full penetration test lifecycle: reconnaissance, scanning, vulnerabi
 <br><img width="401" height="215" alt="image" src="https://github.com/user-attachments/assets/33cb446c-2d39-4a2c-9f3f-dcbf43f040d4" />
 
 
-📄 **[[Download Full Lab Report (PDF)](./Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf))**  
+> 📄 **[[Download Full Lab Report (PDF)](./Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf))**  
 > 🔒 Password protected — contact me at jasove@live.com to request access
+
+
+### 02 · Network Traffic Forensics — Phishing Attack Investigation
+Scenario: Corporate phishing incident — customer PII exfiltrated to external server
+Investigated a real-world-style incident starting from a known outcome ("customer data on Pastebin")
+and traced it backwards through a PCAP file to identify the initial intrusion vector, compromised users,
+malware delivery chain, and data exfiltration method.
+- **Tools:** Wireshark · TShark · VirusTotal · HTTP Object Export
+- ✅ Protocol analysis (SMTP analysis — identified spoofed phishing email) (HTTP object export — extracted 26 kB malicious PDF payload from PCAP)
+- ✅ PDF forensics — identified embedded JavaScript, auto-execute /OpenAction, obfuscated shellcode
+- ✅ VirusTotal analysis — 41/64 engines flagged payload (CVE-2009-0927, CVE-2008-2992)
+- ✅ Exfiltration tracing — 1.2 MB of customer PII uploaded to 55.9.19.52 over plain HTTP
+- ✅ Attack timeline reconstructed across 5 phases
+
+Key Finding: Two internal victims compromised. Full names, SSNs, credit card numbers and CVVs
+exfiltrated in plaintext ~20 hours post-infection. Pastebin filters returned zero results — confirming
+exfiltration occurred via direct HTTP upload, not Pastebin directly.
+
+CVEs: CVE-2009-0927 (Adobe Reader JS buffer overflow) · CVE-2008-2992 (util.printf stack overflow)
+> 📄 **[[Download Full Lab Report (PDF)](./Pentest_Lab_Writeup_protected.pdf](https://github.com/jaalso/cybersecurity-portfolio/blob/main/Pentest_Lab_Writeup_protected.pdf))**  
+> 🔒 Password protected — contact me at jasove@live.com to request access
+
+
+
+
+
+
 
 
 # 🧰 Tools & Technologies
