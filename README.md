@@ -35,7 +35,7 @@ My background is in IT infrastructure, System Admin, Network, Automation, IT Sup
 | 02 | Home Network Security Audit | netdiscover · nmap · Hydra | ✅ Complete |
 | 03 | Web App Security — Certificate Analysis | nmap NSE · sslyze · openssl | ✅ Complete |
 | 04 | SIEM & Endpoint Detection (Wazuh) | Wazuh · Elastic Stack | 🔜 Coming soon |
-| 05 | Email Security Gateway | SPF · DKIM · DMARC | 🔜 Coming soon |
+| 05 | Email Security Gateway — Proxmox Mail Gateway | Docker · Postfix · PMG · swaks · Thunderbird | 🔧 In Progress |
 
 ---
 
