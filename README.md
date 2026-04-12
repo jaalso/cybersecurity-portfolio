@@ -5,7 +5,7 @@
 
 ## About Me
 A cybersecurity learner enrolled in the CSS EFA Program at SCI, building hands-on skills across both offensive (red team) and defensive (blue team) disciplines. 
-My background is in IT infrastructure, System Admin, Network, Automation, IT Support and I'm currently focused on transitioning into a SOC Analyst or Penetration Tester role in Switzerland.
+My background is in IT Infrastructure, System Admin, Network, Automation, IT Support and I'm currently focused on transitioning into a SOC Analyst or Penetration Tester role in Switzerland.
 
 - 🎯 Currently studying: Ethical Hacking, SIEM, Malware Analysis, Phishing Simulation
 - 🚩Swiss Cyber Institute modules completed: Communication & Leadership, ATT&CK Frameworks, Risk Rating (CIA/CVSS/CVE/DREAD), Vulnerability Scanning, Network Analysis, Scan & Simulate Attacks, Certification & Encryption, Network Basic & Analysis, Basic Hardening, Email Communication Investigation, Intrusion Detection Systems.
