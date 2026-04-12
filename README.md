@@ -15,7 +15,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 
 ---
 
-## 🔴 [Red Team Labs](https://github.com/jaalso/red-team-labs)
+## 🔴 [Red Team Labs](https://github.com/jaalso/red-team-labs) (<- Click here to open)
 > Offensive security · Penetration testing · Exploitation · Phishing simulation
 
 | # | Lab | Tools | Status |
@@ -26,7 +26,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 | 04 |  Web App Security Analysis (Burp Suite / OWASP ZAP) | Burp Suite · OWASP ZAP · Browser DevTools | 🔜 Coming soon |
 ---
 
-## 🛡️ [Blue Team Labs](https://github.com/jaalso/blue-team-labs)
+## 🛡️ [Blue Team Labs](https://github.com/jaalso/blue-team-labs) (<- Click here to open)
 > Forensics · SIEM · Network analysis · Certificate auditing · Email security
 
 | # | Lab | Tools | Status |
