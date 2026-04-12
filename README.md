@@ -34,7 +34,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 | 01 | Network Traffic Forensics (Phishing PCAP) | Wireshark · TShark · VirusTotal | ✅ Complete |
 | 02 | Home Network Security Audit | netdiscover · nmap · Hydra | ✅ Complete |
 | 03 | Web App Security — Certificate Analysis | nmap NSE · sslyze · openssl | ✅ Complete |
-| 04 | SIEM & Endpoint Detection (Wazuh) | Wazuh · Elastic Stack | 🔧 In Progress |
+| 04 | SIEM & Endpoint Detection (Wazuh) | Wazuh v4.14.3 · OpenSearch (internal) · systemctl · SSH | ✅ Complete |
 | 05 | Email Security Gateway — Proxmox Mail Gateway | Docker · Postfix · PMG · swaks · Thunderbird | 🔧 In Progress |
 
 ---
