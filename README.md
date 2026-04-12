@@ -22,7 +22,7 @@ Offensive security · Penetration testing · Exploitation · Phishing simulation
 |---|---|---|---|
 | 01 | Network Penetration Testing | nmap · Metasploit · Hydra | ✅ Complete |
 | 02 | GoPhish Phishing Simulation & Offensive Email Attack Chain | GoPhish · Zphisher · SET · Ngrok · Cloudflared · Postfix | ✅ Complete  |
-| 03 |  WordPress Pentest (Bigware/Dockerlabs) | Nmap · Wappalyzer · WPScan · Python exploit · Browser DevTools · Netcat | 🔜 Coming soon |
+| 03 |  WordPress Pentest (Bigware/Dockerlabs) | Nmap · Wappalyzer · WPScan · Python exploit · Browser DevTools · Netcat | 🔧 In Progress |
 | 04 |  Web App Security Analysis (Burp Suite / OWASP ZAP) | Burp Suite · OWASP ZAP · Browser DevTools | 🔜 Coming soon |
 ---
 
@@ -35,7 +35,7 @@ Offensive security · Penetration testing · Exploitation · Phishing simulation
 | 02 | Home Network Security Audit | netdiscover · nmap · Hydra | ✅ Complete |
 | 03 | Web App Security — Certificate Analysis | nmap NSE · sslyze · openssl | ✅ Complete |
 | 04 | SIEM & Endpoint Detection (Wazuh) | Wazuh v4.14.3 · OpenSearch (internal) · systemctl · SSH | ✅ Complete |
-| 05 | Email Security Gateway — Proxmox Mail Gateway | Docker · Postfix · PMG · swaks · Thunderbird | 🔧 In Progress |
+| 05 | Email Security Gateway — Proxmox Mail Gateway | Docker · Postfix · PMG · swaks · Thunderbird | ✅ Complete |
 
 ---
 
