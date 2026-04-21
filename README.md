@@ -39,9 +39,8 @@ Offensive security · Penetration testing · Exploitation · Phishing simulation
 
 ---
 
-## 🔍 Incident Response Labs
-
-> Full red team → blue team investigations — attack simulation + forensic analysis
+## 🔍 [Incident Response Labs](https://github.com/jaalso/incident-response-labs) <sup><sub>← click to open</sub></sup>
+> DFIR · Windows forensics · Attack simulation · IR reporting
 
 | # | Lab | Tools | Status |
 |---|---|---|---|
