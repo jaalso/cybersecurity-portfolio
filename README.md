@@ -39,17 +39,33 @@ Offensive security · Penetration testing · Exploitation · Phishing simulation
 
 ---
 
-## Tools & Technologies
+## 🔍 Incident Response Labs
+
+> Full red team → blue team investigations — attack simulation + forensic analysis
+
+| # | Lab | Tools | Status |
+|---|---|---|---|
+| 01 | SMB Brute Force Attack & Windows Forensics | CrackMapExec · EZ Tools · EvtxECmd | ✅ Complete |
+| 02 | Wayne Corp IR Simulation *(Week 4)* | KAPE · Timeline Explorer · EvtxECmd | 🔜 Coming soon |
+
+---
+
+## 🧰 Tools & Technologies
 
 | Category | Tools |
 |---|---|
 | Scanning & Recon | nmap · netdiscover · Wireshark · TShark · NetworkMiner |
 | Exploitation | Metasploit · Hydra · CrackMapExec |
-| Web App Testing | Burp Suite, OWASP ZAP |
-| Certificate Analysis | sslyze · openssl · telnet · nmap NSE |
-| SIEM & Monitoring | Wazuh · Elastic Stack · Sysmon |
-| Email Forensics | emlAnalyzer · CyberChef · MXToolbox |
-| Phishing Simulation | GoPhish |
+| Web App Testing | Burp Suite · OWASP ZAP |
+| Certificate Analysis | nmap NSE · sslyze · sslscan · openssl · telnet · csvlook |
+| SIEM & Monitoring | Wazuh v4.14.3 · OpenSearch (internal) |
+| Email Forensics | emlAnalyzer · CyberChef · MXToolbox · analyze.py |
+| Phishing Simulation | GoPhish · Zphisher · SET · swaks |
+| Email Gateway | Proxmox Mail Gateway · Postfix · Dovecot · SpamAssassin · ClamAV |
+| Tunneling | Ngrok · Cloudflared · LocalXpose |
+| Windows Forensics | PECmd · AmcacheParser · AppCompatCacheParser · EvtxECmd |
+| Containerization | Docker · docker-compose |
+| Scripting | PowerShell · Bash · Python |
 | Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox |
 
 ---
