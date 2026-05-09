@@ -22,8 +22,9 @@ Offensive security · Penetration testing · Exploitation · Phishing simulation
 |---|---|---|---|
 | 01 | Network Penetration Testing | nmap · Metasploit · Hydra | ✅ Complete |
 | 02 | GoPhish Phishing Simulation & Offensive Email Attack Chain | GoPhish · Zphisher · SET · Ngrok · Cloudflared · Postfix | ✅ Complete  |
-| 03 |  WordPress Pentest (Bigware/Dockerlabs) | Nmap · Wappalyzer · WPScan · Python exploit · Browser DevTools · Netcat | 🔧 In Progress |
-| 04 |  Web App Security Analysis (Burp Suite / OWASP ZAP) | Burp Suite · OWASP ZAP · Browser DevTools | 🔜 Coming soon |
+| 03 | WordPress Full Compromise (Bigware/Dockerlabs) — CVE-2025-34077 | nmap · WPScan · Metasploit · netcat | ✅ Complete |
+| 04 | WordPress Purple Team — CVE-2020-25213 | curl · bash · Apache logs · mimipenguin | ✅ Complete |
+| 05 | Web App Security Analysis (Burp Suite / OWASP ZAP)	Burp Suite · OWASP ZAP  |  Browser DevTools | 	🔜 Coming soon | 
 ---
 
 ## 🛡️ [Blue Team Labs](https://github.com/jaalso/blue-team-labs) <sup><sub>← click to open</sub></sup>
