@@ -50,7 +50,7 @@ Offensive security · Penetration testing · Exploitation · Phishing simulation
 
 ---
 
-## 🔬 [Security Research](https://github.com/jaalso/security-research) <sup><sub>← click to open</sub></sup>
+## 🔬 [Security Research](https://github.com/jaalso/-Security-Research) <sup><sub>← click to open</sub></sup>
 > Independent threat verification · Privacy analysis · Regulatory context
 
 | # | Research | Type | Status |
