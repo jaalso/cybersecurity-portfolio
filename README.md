@@ -57,14 +57,16 @@ Offensive security · Penetration testing · Exploitation · Phishing simulation
 |---|---|---|---|
 | 01 | BrowserGate — LinkedIn Browser Fingerprinting | Threat Verification + Privacy | ✅ Complete |
 
+---
 
 ## 🧰 Tools & Technologies
 
 | Category | Tools |
 |---|---|
-| Scanning & Recon | nmap · netdiscover · Wireshark · TShark · NetworkMiner |
+| Scanning & Recon | nmap · netdiscover · Wireshark · TShark · NetworkMiner · Wappalyzer |
 | Exploitation | Metasploit · Hydra · CrackMapExec |
-| Web App Testing | Burp Suite · OWASP ZAP |
+| Web App Testing | WPScan · Burp Suite · OWASP ZAP · curl · searchsploit |
+| CVE Exploitation | Python3 PoC · CVE-2025-34077 · CVE-2020-25213 |
 | Certificate Analysis | nmap NSE · sslyze · sslscan · openssl · telnet · csvlook |
 | SIEM & Monitoring | Wazuh v4.14.3 · OpenSearch (internal) |
 | Email Forensics | emlAnalyzer · CyberChef · MXToolbox · analyze.py |
@@ -72,9 +74,11 @@ Offensive security · Penetration testing · Exploitation · Phishing simulation
 | Email Gateway | Proxmox Mail Gateway · Postfix · Dovecot · SpamAssassin · ClamAV |
 | Tunneling | Ngrok · Cloudflared · LocalXpose |
 | Windows Forensics | PECmd · AmcacheParser · AppCompatCacheParser · EvtxECmd |
+| Post-Exploitation | Metasploit shell · netcat · mimipenguin |
+| Privacy Research | Chrome DevTools · Brave Browser · EFF CoverYourTracks |
 | Containerization | Docker · docker-compose |
 | Scripting | PowerShell · Bash · Python |
-| Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox |
+| Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox · Docker |
 
 ---
 
