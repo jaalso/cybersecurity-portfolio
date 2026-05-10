@@ -46,7 +46,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 | # | Lab | Tools | Status |
 |---|---|---|---|
 | 01 | SMB Brute Force Attack & Windows Forensics | CrackMapExec · EZ Tools · EvtxECmd | ✅ Complete |
-| 02 | Wayne Corp IR Simulation *(Week 4)* | KAPE · Timeline Explorer · EvtxECmd | 🔜 Coming soon |
+| 02 | Wayne Corp IR Simulation — Windows DFIR & SOC | KAPE · EZ Tools · impacket · Timeline Explorer | ✅ Complete |
 
 ---
 
