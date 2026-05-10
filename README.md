@@ -16,7 +16,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 ---
 
 ## 🔴 [Red Team Labs](https://github.com/jaalso/red-team-labs) <sup><sub>← click to open</sub></sup>
-Offensive security · Penetration testing · Exploitation · Phishing simulation
+> Offensive security · Penetration testing · Exploitation · Phishing simulation
 
 | # | Lab | Tools | Status |
 |---|---|---|---|
