@@ -56,6 +56,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 | # | Research | Type | Status |
 |---|---|---|---|
 | 01 | BrowserGate — LinkedIn Browser Fingerprinting | Threat Verification + Privacy | ✅ Complete |
+| 02 | Booking.com Storm-1865 Phishing Triage | Live CTI · Incident Prevention · NCSC Report | ✅ Complete |
 
 ---
 
