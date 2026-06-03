@@ -60,6 +60,20 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 
 ---
 
+## 🐍 [Security Scripts](https://github.com/jaalso/security-scripts) <sup><sub>← click to open</sub></sup>
+
+> Python automation for offensive and defensive security operations · Swiss Cyber Institute Module 7
+
+| # | Tool | Description | Status |
+|---|---|---|---|
+| 01 | log-enricher | IP geolocation enrichment · non-Swiss access flagging | ✅ Complete |
+| 02 | hashfile.py | SHA-256 · SHA-1 · MD5 hash computation for file triage | 🔜 Planned |
+| 03 | dnslookup.py | Bulk DNS A-record resolution with suspicious TLD detection | 🔜 Planned |
+| 04 | certinfo.py | TLS certificate subject · issuer · expiry extraction | 🔜 Planned |
+| 05 | urlrep.py | URL reputation via URLscan.io + VirusTotal API | 🔜 Planned |
+
+---
+
 ## 🧰 Tools & Technologies
 
 | Category | Tools |
@@ -80,7 +94,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 | Containerization | Docker · docker-compose |
 | Scripting | PowerShell · Bash · Python |
 | Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox · Docker |
-
+| Scripting | Python 3.13 · PowerShell · Bash · requests · csv |
 ---
 
 # Certifications & Training
