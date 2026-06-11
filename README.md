@@ -37,6 +37,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 | 03 | Web App Security — Certificate Analysis | nmap NSE · sslyze · openssl | ✅ Complete |
 | 04 | SIEM & Endpoint Detection (Wazuh) | Wazuh v4.14.3 · OpenSearch (internal) · systemctl · SSH | ✅ Complete |
 | 05 | Email Security Gateway — Proxmox Mail Gateway | Docker · Postfix · PMG · swaks · Thunderbird | ✅ Complete |
+| 06 | Automated Windows Triage Tool — Invoke-CompromiseCheck.ps1 | PowerShell · CIM/WMI · Event Log · auditpol | ✅ Complete |
 
 ---
 
@@ -57,6 +58,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 |---|---|---|---|
 | 01 | BrowserGate — LinkedIn Browser Fingerprinting | Threat Verification + Privacy | ✅ Complete |
 | 02 | Booking.com Storm-1865 Phishing Triage | Live CTI · Incident Prevention · NCSC Report | ✅ Complete |
+| 03 | Windows Telemetry — What Microsoft Sees from a Personal Host | PowerShell · Privacy Dashboard · GDPR Analysis | ✅ Complete |
 
 ---
 
