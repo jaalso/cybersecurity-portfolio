@@ -51,6 +51,19 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 
 ---
 
+## 🌐 [Web Security Labs](https://github.com/jaalso/web-security) <sup><sub>← click to open</sub></sup>
+
+> SQL injection · XSS · CSP · Apache hardening · OWASP Juice Shop · PortSwigger Web Security Academy
+
+| # | Lab | Tools | Status |
+|---|---|---|---|
+| 01 | SQL Injection — Auth Bypass & UNION Extraction | Burp Suite · Juice Shop · PortSwigger | ✅ Complete |
+| 02 | Broken Access Control — IDOR, Path Traversal & Forged Review | Burp Suite · Intruder · PortSwigger | ✅ Complete |
+| 03 | XSS & Content Security Policy Defence | DevTools · Juice Shop · PortSwigger | ✅ Complete |
+| 04 | Apache Web Server Hardening | Apache · mod_headers · Nikto · curl | ✅ Complete |
+
+---
+
 ## 🔬 [Security Research](https://github.com/jaalso/security-research) <sup><sub>← click to open</sub></sup>
 > Independent threat verification · Privacy analysis · Regulatory context
 
@@ -82,7 +95,8 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 |---|---|
 | Scanning & Recon | nmap · netdiscover · Wireshark · TShark · NetworkMiner · Wappalyzer |
 | Exploitation | Metasploit · Hydra · CrackMapExec |
-| Web App Testing | WPScan · Burp Suite · OWASP ZAP · curl · searchsploit |
+| Web App Testing | WPScan · Burp Suite · OWASP ZAP · curl · searchsploit · Nikto |
+| Web Security | OWASP Juice Shop · PortSwigger Web Security Academy · FoxyProxy · ModHeader |
 | CVE Exploitation | Python3 PoC · CVE-2025-34077 · CVE-2020-25213 |
 | Certificate Analysis | nmap NSE · sslyze · sslscan · openssl · telnet · csvlook |
 | SIEM & Monitoring | Wazuh v4.14.3 · OpenSearch (internal) |
@@ -94,9 +108,9 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 | Post-Exploitation | Metasploit shell · netcat · mimipenguin |
 | Privacy Research | Chrome DevTools · Brave Browser · EFF CoverYourTracks |
 | Containerization | Docker · docker-compose |
-| Scripting | PowerShell · Bash · Python |
-| Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox · Docker |
 | Scripting | Python 3.13 · PowerShell · Bash · requests · csv |
+| Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox · Docker |
+
 ---
 
 # Certifications & Training
@@ -110,9 +124,9 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 
 ## 🌐 Find Me On
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-jaalsove-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/jaalsove)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Bornia01-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Bornia01)
-[![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange?style=for-the-badge&logo=portswigger)](https://portswigger.net/web-security)
-[![JuiceShop](https://img.shields.io/badge/OWASP-Juice%20Shop-brightgreen?style=for-the-badge&logo=owasp)](https://owasp.org/www-project-juice-shop/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Bornia01-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c9973-b580-718e-adda-fcdc2795deb3)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange?style=for-the-badge)](https://github.com/jaalso/web-security#01--sql-injection--auth-bypass--union-extraction)
+[![JuiceShop](https://img.shields.io/badge/OWASP-Juice%20Shop-brightgreen?style=for-the-badge)](https://github.com/jaalso/web-security#03--xss--content-security-policy-defence)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-bornia01-blue?style=for-the-badge)](https://cyberdefenders.org/p/bornia01/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime%20Soto-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaalso)
 
