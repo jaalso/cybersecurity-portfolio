@@ -114,12 +114,9 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 ---
 
 # Certifications & Training
-
 - 🎓 Swiss Cyber Institute — Cybersecurity Specialist Program (in progress)
 - 🎓 Swiss Cyber Institute — Certified Security Professional Training (completed) 
-- 🟩 TryHackMe — SOC Level 1 Path (in progress)
-- 📦 HackTheBox — Sherlocks (Blue Team) (in progress)
-- 🛡️ CyberDefenders — Blue Team Labs *(in progress)*
+ 
 
 
 ## 🌐 Find Me On
