@@ -111,6 +111,8 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 ## 🌐 Find Me On
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-jaalsove-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/jaalsove)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Bornia01-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/Bornia01)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange?style=for-the-badge&logo=portswigger)](https://portswigger.net/web-security)
+[![JuiceShop](https://img.shields.io/badge/OWASP-Juice%20Shop-brightgreen?style=for-the-badge&logo=owasp)](https://owasp.org/www-project-juice-shop/)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-bornia01-blue?style=for-the-badge)](https://cyberdefenders.org/p/bornia01/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime%20Soto-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaalso)
 
