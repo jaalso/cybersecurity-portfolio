@@ -114,13 +114,13 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 | Phishing Simulation | GoPhish · Zphisher · SET · swaks |
 | Email Gateway | Proxmox Mail Gateway · Postfix · Dovecot · SpamAssassin · ClamAV |
 | Tunneling | Ngrok · Cloudflared · LocalXpose |
-| Windows Forensics | PECmd · AmcacheParser · AppCompatCacheParser · EvtxECmd |
+| Memory Forensics | Volatility 2.6.1 · Volatility 3 |
+| Windows Forensics | PECmd · AmcacheParser · AppCompatCacheParser · EvtxECmd · KAPE |
 | Post-Exploitation | Metasploit shell · netcat · mimipenguin |
-| Privacy Research | Chrome DevTools · Brave Browser · EFF CoverYourTracks |
+| Privacy Research | Chrome DevTools · Brave Browser · EFF CoverYourTracks · Pi-hole |
 | Containerization | Docker · docker-compose |
 | Scripting | Python 3.13 · PowerShell · Bash · requests · csv |
 | Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox · Docker |
-
 ---
 
 # Certifications & Training
