@@ -89,6 +89,16 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 
 ---
 
+## 🧠 [Memory Forensics Labs](https://github.com/jaalso/memory-forensics-labs) <sup><sub>← click to open</sub></sup>
+> Windows memory forensics · Volatility 2 · Malware analysis · DFIR
+
+| # | Case | Malware | Technique | Status |
+|---|---|---|---|---|
+| 01 | Cridex Banking Trojan | Cridex / Bugat | Process injection · C2 detection | ✅ Complete |
+| 02 | Zeus / Zbot Banking Trojan | Zeus / Zbot | malfind · vaddump · persistence | ✅ Complete |
+
+---
+
 ## 🧰 Tools & Technologies
 
 | Category | Tools |
