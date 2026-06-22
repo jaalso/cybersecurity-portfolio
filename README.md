@@ -8,7 +8,7 @@ A cybersecurity learner enrolled in the CSS EFA Program at SCI, building hands-o
 My background is in IT Infrastructure, System Admin, Network, Automation, IT Support and I'm currently focused on transitioning into a SOC Analyst or Penetration Tester role in Switzerland.
 
 - 🎯 Currently studying: Ethical Hacking, SIEM, Malware Analysis, Phishing Simulation
-- 🚩Swiss Cyber Institute modules completed: Communication & Leadership, ATT&CK Frameworks, Risk Rating (CIA/CVSS/CVE/DREAD), Vulnerability Scanning, Network Analysis, Scan & Simulate Attacks, Certification & Encryption, Network Basic & Analysis, Basic Hardening, Email Communication Investigation, Intrusion Detection Systems, IR Playbooks, Triage, Web App Security and Web Hardening, Python. 
+- 🚩Swiss Cyber Institute modules completed: Communication & Leadership, ATT&CK Frameworks, Risk Rating (CIA/CVSS/CVE/DREAD), Vulnerability Scanning, Network Analysis, Scan & Simulate Attacks, Certification & Encryption, Network Basic & Analysis, Basic Hardening, Email Communication Investigation, Intrusion Detection Systems, IR Playbooks, Triage, Web App Security and Web Hardening, Python and Memory Forencisc. 
 - 🛡️ Platforms: TryHackMe · HackTheBox · PortSwigger · JuiceShop · CyberDefenders · LetsDefend 
 - 🔬 My Own Security Labs: GNS3, WMware Workstation Pro, VirtualBox, Vulnerable VMs.  
 - 📬 Open to: security engineering, ethical hacking, junior penetration testing. I work across both sides — building detections and doing host forensics on the blue team, and enumeration-to-exploitation labs on the red team — because understanding one makes you better at the other.
