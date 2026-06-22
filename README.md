@@ -141,7 +141,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 All penetration testing and offensive security activities documented in this portfolio were conducted exclusively in:
 
 - Isolated personal lab environments (VMs with no external connectivity)
-- Authorized external targets (vuln.land)
+- Authorized external targets (vuln.land · Dockerlabs)
 - Simulated environments provided by training platforms (THM, HTB)
 
 No unauthorized systems were accessed. All work complies with Swiss law and ethical hacking standards.
