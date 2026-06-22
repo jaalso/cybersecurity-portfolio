@@ -89,7 +89,7 @@ My background is in IT Infrastructure, System Admin, Network, Automation, IT Sup
 
 ---
 
-## 🧠 [Memory Forensics Labs](https://github.com/jaalso/memory-forensics-labs) <sup><sub>← click to open</sub></sup>
+## 🧠 [Memory Forensics](https://github.com/jaalso/memory-forensics) <sup><sub>← click to open</sub></sup>
 > Windows memory forensics · Volatility 2 · Malware analysis · DFIR
 
 | # | Case | Malware | Technique | Status |
