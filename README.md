@@ -1,17 +1,29 @@
 
 # 👾Cybersecurity Portfolio
 
-> Aim of this repo is to display the different projects I've worked on during the last months.
-
 ## About Me
-A cybersecurity learner enrolled in the CSS EFA Program at SCI, building hands-on skills across both offensive (red team) and defensive (blue team) disciplines. 
-My background is in IT Infrastructure, System Admin, Network, Automation, IT Support and I'm currently focused on transitioning into a SOC Analyst or Penetration Tester role in Switzerland.
+Breaking into offensive & defensive security from system admin/IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes — the honest version, with tutorials credited where followed.
 
-- 🎯 Currently studying: Ethical Hacking, SIEM, Malware Analysis, Phishing Simulation
-- 🚩Swiss Cyber Institute modules completed: Communication & Leadership, ATT&CK Frameworks, Risk Rating (CIA/CVSS/CVE/DREAD), Vulnerability Scanning, Network Analysis, Scan & Simulate Attacks, Certification & Encryption, Network Basic & Analysis, Basic Hardening, Email Communication Investigation, Intrusion Detection Systems, IR Playbooks, Triage, Web App Security and Web Hardening, Python and Memory Forencisc. 
-- 🛡️ Platforms: TryHackMe · HackTheBox · PortSwigger · JuiceShop · CyberDefenders · LetsDefend 
-- 🔬 My Own Security Labs: GNS3, WMware Workstation Pro, VirtualBox, Vulnerable VMs.  
-- 📬 Open to: security engineering, ethical hacking, junior penetration testing. I work across both sides — building detections and doing host forensics on the blue team, and enumeration-to-exploitation labs on the red team — because understanding one makes you better at the other.
+**CSS EFA Bachelor** · SCI · Nov 2026  
+**CSP** · completed Dec 2025  
+**NCSC Switzerland** · acknowledged real-world CTI investigation (Storm-1865, May 2026)
+
+---
+
+## What's here
+Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and findings  
+**🔬Full lab portfolio** → [jaalso.github.io/labs](https://jaalso.github.io/labs/)
+<br>**📬 Open** to: security engineering, ethical hacking, junior penetration testing. I work across both sides — building detections and doing host forensics on the blue team, and enumeration-to-exploitation labs on the red team — because understanding one makes you better at the other.
+
+**Domains covered:**
+- Offensive — network pentest, SMB compromise, PsExec lateral movement, phishing campaigns
+- Defensive / Blue Team — Wazuh SIEM/XDR, CIS Benchmark (190 controls), email gateway
+- DFIR — KAPE triage (3,303 artifacts), Windows memory forensics (Volatility 2/3), 
+  Eric Zimmerman tools
+- Web / TLS — certificate analysis, HSTS deployment, SSL stripping
+- CTI — real-world Storm-1865 phishing investigation, NCSC acknowledgment
+
+**Active platforms:** HackTheBox · TryHackMe · PortSwigger 
 
 ---
 
