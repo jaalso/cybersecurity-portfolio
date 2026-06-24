@@ -1,7 +1,6 @@
 
 # 👾Cybersecurity Portfolio
 
-## About Me
 Breaking into offensive & defensive security from system admin/IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes — the honest version, with tutorials credited where followed.
 
 **CSS EFA Bachelor** · SCI · Nov 2026  
