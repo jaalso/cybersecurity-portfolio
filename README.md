@@ -1,7 +1,7 @@
 
 # 👾Cybersecurity Portfolio
 
-Breaking into offensive & defensive security from system admin/IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes, the honest version, with tutorials credited where followed.
+Breaking into offensive & defensive security from system admin/IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes, the honest version with tutorials credited where followed.
 
 **CEH** · In Progress
 <br>**CSS EFA Bachelor** · SCI · (tbf Nov 2026)
