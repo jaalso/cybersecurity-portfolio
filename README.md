@@ -1,9 +1,9 @@
 
 # 👾Cybersecurity Portfolio
 
-Breaking into offensive & defensive security from system admin/IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes — the honest version, with tutorials credited where followed.
-
-**CSS EFA Bachelor** · SCI · Nov 2026  
+Breaking into offensive & defensive security from system admin/IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes, the honest version, with tutorials credited where followed.
+**CEH** · In Progress
+**CSS EFA Bachelor** · SCI · (tbf Nov 2026)
 **CSP** · completed Dec 2025  
 **NCSC Switzerland** · acknowledged real-world CTI investigation (Storm-1865, May 2026)
 
@@ -12,7 +12,7 @@ Breaking into offensive & defensive security from system admin/IT infrastructure
 ## What's here
 Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and findings  
 **🔬Full lab portfolio** → [jaalso.github.io/labs](https://jaalso.github.io/labs/)
-<br>**📬 Open** to: security engineering, ethical hacking, junior penetration testing. I work across both sides — building detections and doing host forensics on the blue team, and enumeration-to-exploitation labs on the red team — because understanding one makes you better at the other.
+<br>**📬 Open** to: security engineering, ethical hacking, junior penetration testing. I work across both sides: building detections and doing host forensics on the blue team, and enumeration-to-exploitation labs on the red team — because understanding one makes you better at the other.
 
 **Domains covered:**
 - Offensive — network pentest, SMB compromise, PsExec lateral movement, phishing campaigns
