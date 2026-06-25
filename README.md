@@ -59,7 +59,7 @@ Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and
 | # | Lab | Tools | Status |
 |---|---|---|---|
 | 01 | SMB Brute Force Attack & Windows Forensics | CrackMapExec · EZ Tools · EvtxECmd | ✅ Complete |
-| 02 | Wayne Corp IR Simulation — Windows DFIR & SOC | KAPE · EZ Tools · impacket · Timeline Explorer | ✅ Complete |
+| 02 | Windows DFIR Engagement — Lateral Movement & IR Simulation | KAPE · EZ Tools · impacket · Timeline Explorer | ✅ Complete |
 
 ---
 
