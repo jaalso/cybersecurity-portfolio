@@ -124,7 +124,8 @@ Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and
 | SIEM & Monitoring | Wazuh v4.14.3 · OpenSearch (internal) |
 | Email Forensics | emlAnalyzer · CyberChef · MXToolbox · analyze.py |
 | Phishing Simulation | GoPhish · Zphisher · SET · swaks |
-| Email Gateway | Proxmox Mail Gateway · Postfix · Dovecot · SpamAssassin · ClamAV |
+| Email Gateway | Proxmox Mail Gateway · Postfix · Dovecot · SpamAssassin · ClamAV · Thunderbird  |
+| IR & Triage | KAPE · auditpol · PowerShell 5.1+ · CIM/WMI · Get-MpThreatDetection |
 | Tunneling | Ngrok · Cloudflared · LocalXpose |
 | Memory Forensics | Volatility 2.6.1 · Volatility 3 |
 | Windows Forensics | PECmd · AmcacheParser · AppCompatCacheParser · EvtxECmd · KAPE |
@@ -133,6 +134,7 @@ Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and
 | Containerization | Docker · docker-compose |
 | Scripting | Python 3.13 · PowerShell · Bash · requests · csv |
 | Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox · Docker |
+
 ---
 
 # Certifications & Training
