@@ -76,6 +76,16 @@ Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and
 
 ---
 
+## 🔐 [IAM Labs](https://github.com/jaalso/iam-labs) <sup><sub>← click to open</sub></sup>
+
+> Identity & Access Management · OIDC · JWT · Keycloak · OAuth 2.0
+
+| # | Lab | Tools | Status |
+|---|---|---|---|
+| 01 | Keycloak Identity Broker — OIDC Authorization Code Flow | Keycloak · Docker · curl · JWT | ✅ Complete |
+
+---
+
 ## 🔬 [Security Research](https://github.com/jaalso/security-research) <sup><sub>← click to open</sub></sup>
 > Independent threat verification · Privacy analysis · Regulatory context
 
