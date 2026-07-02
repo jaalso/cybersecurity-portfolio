@@ -101,13 +101,15 @@ Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and
 
 > Python automation for offensive and defensive security operations · Swiss Cyber Institute Module 7
 
-| # | Tool | Description | Status |
-|---|---|---|---|
-| 01 | log-enricher | IP geolocation enrichment · non-Swiss access flagging | ✅ Complete |
-| 02 | hashfile.py | SHA-256 · SHA-1 · MD5 hash computation for file triage | 🔜 Planned |
-| 03 | dnslookup.py | Bulk DNS A-record resolution with suspicious TLD detection | 🔜 Planned |
-| 04 | certinfo.py | TLS certificate subject · issuer · expiry extraction | 🔜 Planned |
-| 05 | urlrep.py | URL reputation via URLscan.io + VirusTotal API | 🔜 Planned |
+| #  | Tool                                                    | Description                                                                | Status     |
+| --- | ------------------------------------------------------- | -------------------------------------------------------------------------- | ---------- |
+| 01 | [log-enricher](#01--log-enricher)                       | Enrich CSV auth logs with IP geolocation · flag non-Swiss access           | ✅ Complete |
+| 02 | [sbom-scanner](#02--sbom-scanner)                       | Scan SBOM JSON files against OSV.dev · CI/CD-friendly exit codes           | ✅ Complete |
+| 03 | [dns-typosquatting](#03--dns-typosquatting)             | Detect typosquatted domains in DNS logs via Levenshtein edit distance      | ✅ Complete |
+| 04 | [soc-triage-helpers](#04--soc-triage-helpers)           | Fast terminal utilities for IR — file hashing · DNS resolution             | ✅ Complete |
+| 05 | [xor-decrypt](#05--xor-decrypt)                         | Decrypt repeating-key XOR ciphertext · bitwise crypto from first principles | ✅ Complete |
+| 06 | certinfo.py                                             | TLS certificate subject · issuer · expiry extraction                       | 🔜 Planned  |
+| 07 | urlrep.py                                               | URL reputation via URLscan.io + VirusTotal API                             | 🔜 Planned  |
 
 ---
 
