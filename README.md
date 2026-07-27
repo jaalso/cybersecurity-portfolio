@@ -1,7 +1,6 @@
 
-# 👾Cybersecurity Portfolio
-
-Breaking into offensive & defensive security from system admin/IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes, the honest version with tutorials credited where followed.
+# 👾 Cybersecurity Portfolio
+Breaking into offensive & defensive security from a system admin / IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes, the honest version, with tutorials credited where followed.
 
 **CEH** · In Progress
 <br>**CSS EFA Bachelor** · SCI · (tbf Nov 2026)
@@ -11,19 +10,21 @@ Breaking into offensive & defensive security from system admin/IT infrastructure
 ---
 
 ## What's here
-Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and findings  
-**🔬Full lab portfolio** → [jaalso.github.io/labs](https://jaalso.github.io/labs/)
-<br>**📬 Open** to: security engineering, ethical hacking, junior penetration testing. I work across both sides: building detections and doing host forensics on the blue team, and enumeration-to-exploitation labs on the red team — because understanding one makes you better at the other.
+Multiple hands-on labs · 3 published write-ups · tools, CVEs, methodology, and findings
+<br>**🔬 Full lab portfolio** → [jaalso.github.io/labs](https://jaalso.github.io/labs/)
+<br>**📬 Open** to: security engineering, ethical hacking, junior penetration testing. I work across both sides — building detections and doing host forensics on the blue team, and enumeration-to-exploitation labs on the red team — because understanding one makes you better at the other.
 
 **Domains covered:**
-- Offensive — network pentest, SMB compromise, PsExec lateral movement, phishing campaigns
-- Defensive / Blue Team — Wazuh SIEM/XDR, CIS Benchmark (190 controls), email gateway
-- DFIR — KAPE triage (3,303 artifacts), Windows memory forensics (Volatility 2/3), 
-  Eric Zimmerman tools
-- Web / TLS — certificate analysis, HSTS deployment, SSL stripping
-- CTI — real-world Storm-1865 phishing investigation, NCSC acknowledgment
+- **Offensive** — network pentest, SMB compromise, PsExec lateral movement, phishing campaigns, WordPress exploitation (CVE-2025-34077, CVE-2020-25213)
+- **Defensive / Blue Team** — Wazuh SIEM/XDR, CIS Benchmark (190 controls), email security gateway
+- **DFIR** — KAPE triage (3,303 artifacts in 13 min), Eric Zimmerman tools, full attack-chain reconstruction
+- **Memory Forensics** — Windows memory analysis (Volatility 2/3), banking-trojan injection (Cridex, Zeus/Zbot)
+- **Web / TLS** — OWASP Top 10 (SQLi, XSS, IDOR), certificate analysis, HSTS deployment, SSL stripping, Apache hardening
+- **Identity & Access (IAM)** — Keycloak identity broker, OIDC Authorization Code flow, JWT analysis
+- **CTI** — real-world Storm-1865 phishing investigation, NCSC acknowledgment
+- **Automation** — Python & PowerShell security tooling (log enrichment, SBOM scanning, DFIR triage)
 
-**Active platforms:** HackTheBox · TryHackMe · PortSwigger 
+**Active platforms:** HackTheBox · TryHackMe · PortSwigger · CyberDefenders
 
 ---
 
