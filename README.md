@@ -3,9 +3,9 @@
 Breaking into offensive & defensive security from a system admin / IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes, the honest version, with tutorials credited where followed.
 
 **CEH** · In Progress
-<br>**CSS EFA Bachelor** · SCI · (tbf Nov 2026)
-<br>**Google Cyber Security** · completed July 2026
-<br>**CSP** · completed Dec 2025
+<br>**CSS EFA Bachelor** · SCI 
+<br>**Google Cyber Security** 
+<br>**CSP** · SCI 
 <br>**NCSC Switzerland** · acknowledged real-world CTI investigation (Storm-1865, May 2026)
 
 ---
@@ -194,12 +194,6 @@ I am interested in security analysis, vulnerability assessment, endpoint securit
 | Platforms | Kali Linux · Windows 10/11 · Metasploitable 2 · VirtualBox · Docker |
 
 ---
-
-# Certifications & Training
-- 🎓 Swiss Cyber Institute — Cybersecurity Specialist Program (in progress)
-- 🎓 Swiss Cyber Institute — Certified Security Professional Training (completed) 
- 
-
 
 ## 🌐 Find Me On
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-jaalsove-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/jaalsove)
