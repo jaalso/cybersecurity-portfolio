@@ -211,5 +211,3 @@ All penetration testing and offensive security activities documented in this por
 - Simulated environments provided by training platforms (THM, HTB)
 
 No unauthorized systems were accessed. All work complies with Swiss law and ethical hacking standards.
-
-No unauthorized systems were accessed. All work complies with Swiss law and ethical hacking standards.
