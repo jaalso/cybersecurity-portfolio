@@ -1,7 +1,6 @@
 # 👾 About me
 Breaking into offensive & defensive security from a system admin / IT infrastructure (banking & enterprise) background. This is where I publish lab write-ups, CTF solutions, and notes, the honest version, with tutorials credited where followed.
 
-<br>**🔬 Full lab portfolio** → [jaalso.github.io/labs](https://jaalso.github.io/labs/)
 <br>**📬 Open** to: SOC analyst / blue team / detection, endpoint investigation / incident response.
 <br>**Links:** [Lab portfolio](https://jaalso.github.io/labs/) · [LinkedIn](https://linkedin.com/in/jaalso) · [HackTheBox](https://profile.hackthebox.com/profile/019c9973-b580-718e-adda-fcdc2795deb3) · [TryHackMe](https://tryhackme.com/p/jaalsove) · [CyberDefenders](https://cyberdefenders.org/p/bornia01/)
 
